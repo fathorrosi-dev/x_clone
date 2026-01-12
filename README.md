@@ -7,9 +7,9 @@ A Flutter app inspired by the Twitter/X experience. This project demonstrates:
 - Dependency injection via get_it
 - Responsive UI & routing (go_router)
 
-<img src="x_clone.png" alt="x_clone" width="240">
-<img src="x_clone1.png" alt="x_clone1" width="240">
-<img src="x_clone2.png" alt="x_clone2" width="240">
+<img src="x_clone.png" alt="x_clone" >
+<img src="x_clone1.png" alt="x_clone1" >
+<img src="x_clone2.png" alt="x_clone2" >
 
 Table of contents
 - [Prerequisites](#prerequisites)
